@@ -2,6 +2,7 @@
   "name": "dh-test-lib",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/dhammani/dh-test-lib",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
